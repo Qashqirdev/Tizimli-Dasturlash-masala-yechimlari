@@ -1,4 +1,4 @@
-//  Satr berilgan. Satrdagi katta,kichik latin harflari va raqam,belgilar sanini aniqlavchi programma tuzilsin 
+//  Satr berilgan. Satrdagi katta,kichik latin harflari va raqam,belgilar sonini aniqlavchi programma tuzilsin 
 #include<iostream>
 using namespace std;
 int main()
